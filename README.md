@@ -1,0 +1,4 @@
+# serialtest
+シリアル通信の練習
+
+Windows上でクローンしてdotnetで実行すれば動くと思います
